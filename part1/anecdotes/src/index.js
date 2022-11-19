@@ -2,7 +2,6 @@ import React, { useState, useEffect } from 'react';
 import ReactDOM from 'react-dom/client';
 import AnecdoteOfTheDay from './components/AnecdoteOfTheDay';
 import MostVoted from './components/MostVoted';
-import Title from './components/Title';
 import './index.css';
 
 
